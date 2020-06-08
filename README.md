@@ -21,7 +21,7 @@ This is an example of data taken from Louisiana interferometer (L1)
 
 Determining lines on gravitational waves dataset is a tedious works. The volume of data generated is inhuman. Then, we need machine learning. CNN is a good method to classifying image, thus resulted in adventage on Gravitational Waves data. 
 
-
+![](gw.png)
 
 # Sources
 
