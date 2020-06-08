@@ -7,11 +7,12 @@ Gravitational waves originated from energetic processes in universe. In the Gene
 
 A collision of black holes, supernovae, and collision of neutron stars resulted in much stronger gravitational waves. There is a possibility that Gravitational Waves originated from the big bang remnants. 
 
-![](https://www.ligo.caltech.edu/system/media_files/binaries/266/small/162571main_GPB_circling_earth3_516.jpg?1446243770)
+<div style="text-align:center"><img src="https://www.ligo.caltech.edu/system/media_files/binaries/266/small/162571main_GPB_circling_earth3_516.jpg?1446243770" /></div>
 
 Here is an example of Gravitational Waves signal candidate, such as a strong power line. The original data actually is on time-series signal. The Y-axis related to frequency, and the X-axis related to time.  
 
-![](powerline.png)
+<div style="text-align:center"><img src="powerline.png" /></div>
+
 
 This is an example of data taken from Louisiana interferometer (L1)
 
@@ -21,7 +22,7 @@ This is an example of data taken from Louisiana interferometer (L1)
 
 Determining lines on gravitational waves dataset is a tedious works. The volume of data generated is inhuman. Then, we need machine learning. CNN is a good method to classifying image, thus resulted in adventage on Gravitational Waves data. 
 
-![](gw.png)
+<div style="text-align:center"><img src="gw.png" /></div>
 
 # Sources
 
