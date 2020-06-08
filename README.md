@@ -22,4 +22,6 @@ This is an example of data taken from Louisiana interferometer (L1)
 Determining lines on gravitational waves dataset is a tedious works. The volume of data generated is inhuman. Then, we need machine learning. CNN is a good method to classifying image, thus resulted in adventage on Gravitational Waves data. 
 
 Dataset: https://www.kaggle.com/tentotheminus9/gravity-spy-gravitational-waves (Actually very big)
-Source: https://www.ligo.caltech.edu/page/what-are-gw
+Sources: 
+Gravitational Waves. from https://www.ligo.caltech.edu/page/what-are-gw 
+GW190412. from https://www.gw-openscience.org/eventapi/html/O3_Discovery_Papers/GW190412/v1/
